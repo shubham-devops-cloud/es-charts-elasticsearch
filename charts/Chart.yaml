@@ -1,0 +1,4 @@
+apiVersion: v1
+name: es-elasticsearch
+description: A HELM Chart for elasticsearch microservice
+version: 0.0.1
